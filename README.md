@@ -38,8 +38,8 @@ The Raffle Contract uses Chainlink Keeper nodes for periodic upkeep. The contrac
 
 Stay updated on the ongoing raffles, recent winners, and contract details:
 
-- **Check Contract Status:** [Insert Contract Address on Etherscan]
-- **View Recent Winners:** [Insert Contract Address on Etherscan]
+- **Check Contract Status:** [https://sepolia.etherscan.io/address/0xa45D9eE6d76Cc47e1688b5C222bF754aEe660D68#code]
+- **View Recent Winners:** [https://sepolia.etherscan.io/address/0xa45D9eE6d76Cc47e1688b5C222bF754aEe660D68#code]
 
 ## Frequently Asked Questions
 
@@ -57,7 +57,7 @@ Winners are randomly selected using the Chainlink VRF, ensuring a fair and unbia
 
 ## Explore Further
 
-For a deeper understanding of the Raffle Contract and to explore contract details, visit the [Raffle Contract on Etherscan](Insert Contract Address on Etherscan).
+For a deeper understanding of the Raffle Contract and to explore contract details, visit the [Raffle Contract on Etherscan](https://sepolia.etherscan.io/address/0xa45D9eE6d76Cc47e1688b5C222bF754aEe660D68#code).
 
 Feel the excitement of the raffle and may the odds be ever in your favor! 🎉
 
