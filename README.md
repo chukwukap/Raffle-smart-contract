@@ -1,5 +1,3 @@
-# Sample Hardhat Project
-
 # Raffle Contract User Guide
 
 ## Overview
